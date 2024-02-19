@@ -1,0 +1,9 @@
+langchain
+streamlit
+streamlit-chat
+pinecone-client==3.0.2
+pandas
+python-dotenv
+langchain-openai
+langchain-community
+langchain-experimental
