@@ -108,3 +108,4 @@ if __name__ == "__main__":
     x = torch.randn(3, 3, 224, 224).to(device)
     assert model(x).shape == torch.Size([BATCH_SIZE, 1000])
     print(model(x).shape)
+
